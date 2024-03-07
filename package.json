@@ -1,0 +1,31 @@
+{
+  "name": "discordharubot",
+  "version": "1.0.4",
+  "description": "Discord API v10 wrapper for managing messages, channels, roles, and user interactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanhan20/BotdiscordHaru.git"
+  },
+  "keywords": [
+    "discord",
+    "simple",
+    "api",
+    "wrapper",
+    "dc"
+  ],
+  "author": "fanhan20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanhan20/BotdiscordHaru"
+  },
+  "homepage": "https://github.com/fanhan20/BotdiscordHaru/README.md",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "npm-dependants": "^2.1.2",
+    "winston": "^3.11.0"
+  }
+}
