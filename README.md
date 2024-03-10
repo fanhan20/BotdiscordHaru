@@ -12,7 +12,7 @@ This package is a powerful wrapper for Discord API v10, designed for easy intera
 ## Installation
 
 ```bash
-npm install discord-simple-api
+npm i botdiscordharu
 ```
 
 ## Usage
